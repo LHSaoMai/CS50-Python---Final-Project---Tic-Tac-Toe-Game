@@ -3,7 +3,7 @@
 #### Description:
 This is a basic tic tac toe game where the player plays against the computer. This game comes with a "new design": the player doesn't need to choose the row and the column to play. He just need to choose the number.
 
-![Tic tac toe game](/project/tic tact toe.png)
+![Tic tac toe game](image.png)
 
 ## Folder Contents
 - **project.py**: File which contains the ```main``` function and the other functions necessary to implement the game.
